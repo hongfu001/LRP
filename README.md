@@ -10,6 +10,7 @@ Selecting demonstrations and generating output:
 python main.py
 ```
 
+## Citation
 If you find this useful in your research, please consider citing:
 ```
 @article{gao2024noise,
@@ -19,3 +20,7 @@ If you find this useful in your research, please consider citing:
   year={2024}
 }
 ```
+
+
+## Acknowledgements
+Our code is inspired by OpenICL(https://github.com/Shark-NLP/OpenICL). We thank the authors for releasing their code.
