@@ -1,4 +1,8 @@
 
+## On the Noise Robustness of In-Context Learning for Text Generation
+This repository is the official implementation of  [On the Noise Robustness of In-Context Learning for Text Generation](https://arxiv.org/abs/2405.17264) at NeurIPS 2024
+
+
 ## Usage
 We use Python 3.9.19, and other packages can be installed by:
 ```
@@ -23,4 +27,4 @@ If you find this useful in your research, please consider citing:
 
 
 ## Acknowledgements
-Our code is inspired by OpenICL(https://github.com/Shark-NLP/OpenICL). We thank the authors for releasing their code.
+Our code is inspired by [OpenICL](https://github.com/Shark-NLP/OpenICL). We thank the authors for releasing their code.
